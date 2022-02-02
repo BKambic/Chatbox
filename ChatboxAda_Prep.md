@@ -16,6 +16,11 @@ Features:
 
 Possible:
 - Multiple chat rooms(?)
+- Friends List
+- Block list
+- Admin Users
+- report button (?)
+
 
 Packages to use:
 - GNAT.Sockets for sockets: 
