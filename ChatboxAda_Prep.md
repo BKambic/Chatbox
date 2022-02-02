@@ -11,7 +11,7 @@ Need:
 
 Features:
 - Create unique username
-- Show time of sent message == IN PROGRESS
+- Show time of sent message == COMPLETED?
 - Show whos in the chat room
 
 Possible:
