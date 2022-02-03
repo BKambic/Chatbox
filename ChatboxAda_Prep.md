@@ -11,7 +11,7 @@ Need:
 
 Features:
 - Create unique username
-- Show time of sent message == IN PROGRESS
+- Show time of sent message == COMPLETED 
 - Show whos in the chat room
 
 Possible:
@@ -19,9 +19,9 @@ Possible:
 - Friends List
 - Ignore/Block List
 - Possible Admin clients?
-- Possible report Function?
+- Possible report  == COMPLETED
 - Emoji Translator (Typing =) will be turned into *Smile* ).
-- Private Messaghe chat?
+- Private Message chat?
 
 Packages to use:
 - GNAT.Sockets for sockets: 
